@@ -8,13 +8,7 @@
   "icons": [
     {
       "src": "nipone.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "maskable"
-    },
-    {
-      "src": "nipone.png",
-      "sizes": "512x512",
+      "sizes": "204x192",
       "type": "image/png",
       "purpose": "any"
     }
@@ -22,14 +16,14 @@
   "screenshots": [
     {
       "src": "nipone.png",
-      "sizes": "512x512",
+      "sizes": "204x192",
       "type": "image/png",
       "form_factor": "wide",
       "label": "西暦⇒和暦変換アプリの画面"
     },
     {
       "src": "nipone.png",
-      "sizes": "512x512",
+      "sizes": "204x192",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "西暦⇒和暦変換アプリの画面"
