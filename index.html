@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>和暦変換アプリ</title>
+    <title>西暦⇒和暦変換アプリ</title>
     <style>
         :root {
             --abashiri-blue: #007bbb; /* オホーツクブルー */
@@ -39,7 +39,7 @@
         }
         /* 【追加】ニポネ画像のスタイル */
         .nipone-img {
-            width: 100px; /* 画像の横幅（適宜調整してください） */
+            width: 120px; /* 画像の横幅（適宜調整してください） */
             height: auto;  /* 縦横比を維持 */
         }
         input[type="number"] {
@@ -80,7 +80,7 @@
         <img src="nipone.png" alt="ニポネ" class="nipone-img">
     </div>
     
-    <h1>和暦変換アプリ</h1>
+    <h1>西暦⇒和暦変換アプリ</h1>
     
     <p>西暦（4ケタ）を入力してください</p>
     <input type="number" id="yearInput" placeholder="例: 2026" oninput="convertEra()">
