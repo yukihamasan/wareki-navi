@@ -1,5 +1,5 @@
 {
-  "name": "和暦⇒西暦変換アプリ",
+  "name": "西暦⇒和暦変換アプリ",
   "short_name": "西暦変換",
   "start_url": "index.html",
   "display": "standalone",
@@ -19,14 +19,14 @@
       "sizes": "204x192",
       "type": "image/png",
       "form_factor": "wide",
-      "label": "和暦⇒西暦変換アプリの画面"
+      "label": "西暦⇒和暦変換アプリの画面"
     },
     {
       "src": "nipone.png",
       "sizes": "204x192",
       "type": "image/png",
       "form_factor": "narrow",
-      "label": "和暦⇒西暦変換アプリの画面"
+      "label": "西暦⇒和暦変換アプリの画面"
     }
   ]
 }
